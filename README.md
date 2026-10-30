@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:006978,100:00B8D4&section=header" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,45:0097A7,100:00E5FF&animation=fadeIn&section=header" alt="banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=58&color=FFFFFF&center=true&vCenter=true&repeat=false&width=820&height=90&lines=KIMANI" alt="name" />
 
