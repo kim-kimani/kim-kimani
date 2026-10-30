@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="assets/whoami.svg" alt="kimani@security terminal" width="80%"/>
+<img src="assets/terminal.svg" alt="kimani@security terminal" width="80%"/>
 
 </div>
 
