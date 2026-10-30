@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,45:0097A7,100:00E5FF&animation=fadeIn&section=header" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:0097A7,100:00E5FF&animation=fadeIn&section=header" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=58&color=FFFFFF&center=true&vCenter=true&repeat=false&width=820&height=90&lines=KIMANI" alt="name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=80&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=120&lines=KIMANI" alt="name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=820&lines=Senior+Security+Engineer+%26+Cloud+Architect;Application+Security+%7C+Web+%7C+Mobile+%7C+API;Offensive+Security+%7C+Red+Teaming;Cloud+Security+%7C+AWS;DevSecOps+%26+Security+Automation" alt="headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Senior+Security+Engineer+%26+Cloud+Architect;Application+Security+%7C+Web+%7C+Mobile+%7C+API;Offensive+Security+%7C+Red+Teaming;Cloud+Security+%7C+AWS;DevSecOps+%26+Security+Automation" alt="headline" />
+
+<br/>
+
+<em>Knock knock. Who's there? Unauthenticated request. Unauthenticated request who?</em> &nbsp;<code>403</code>
 
 </div>
 
@@ -32,8 +36,6 @@ Think like an attacker. Build like a defender.
 > automation that keeps it all defensible at scale.
 
 `Kenya` &nbsp; `Offensive Security` &nbsp; `AppSec` &nbsp; `Cloud` &nbsp; `AI/LLM Security`
-
-<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="views"/>
 
 ---
 
@@ -149,6 +151,10 @@ Think like an attacker. Build like a defender.
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
