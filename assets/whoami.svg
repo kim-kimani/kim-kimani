@@ -4,12 +4,12 @@
   <!-- title bar -->
   <path d="M0 12 A12 12 0 0 1 12 0 H848 A12 12 0 0 1 860 12 V40 H0 Z" fill="#161b22"/>
   <line x1="0" y1="40" x2="860" y2="40" stroke="#30363d"/>
-  <!-- traffic lights -->
-  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="20" r="6" fill="#27c93f"/>
+  <!-- window controls (right side) -->
+  <circle cx="794" cy="20" r="6" fill="#27c93f"/>
+  <circle cx="816" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="838" cy="20" r="6" fill="#ff5f56"/>
   <!-- title -->
-  <text x="430" y="25" text-anchor="middle" fill="#8b949e" font-size="13">kimani@security: ~/profile</text>
+  <text x="20" y="25" fill="#8b949e" font-size="13">kimani@security: ~/profile</text>
 
   <!-- content -->
   <text x="24" y="70"><tspan fill="#35D07F">┌──(kimani@security)-[</tspan><tspan fill="#00E5FF">~/profile</tspan><tspan fill="#35D07F">]</tspan></text>
