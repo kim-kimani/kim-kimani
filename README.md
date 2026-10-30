@@ -1,51 +1,89 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&lines=Senior+Security+Engineer+%26+Cloud+Architect;Application+Security+%E2%80%94+Web+%7C+Mobile+%7C+API;Offensive+Security+%26+Red+Teaming;Cloud+Security+%E2%80%94+AWS+%7C+Azure;DevSecOps+%26+Security+Automation" alt="headline" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A0E14,50:00F0FF,100:00FF9C&text=KIMANI&fontColor=0A0E14&fontSize=70&fontAlignY=38&desc=Security%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descAlignY=58&descSize=18" alt="banner" width="100%"/>
 
-# Kimani
-
-**Senior Security Engineer · Cloud Security Architect · DevSecOps**
-
-I secure software and cloud infrastructure end to end — breaking it like a real adversary,
-then rebuilding it hardened. Application security across web, mobile and APIs, cloud attack-path
-analysis, and the automation that keeps it all defensible at scale.
-
-🇰🇪 Kenya · Offensive security · AppSec · Cloud · AI/LLM security
-
-<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=820&lines=%3E+Senior+Security+Engineer+%26+Cloud+Architect;%3E+Application+Security+%7C+Web+%7C+Mobile+%7C+API;%3E+Offensive+Security+%7C+Red+Teaming;%3E+Cloud+Security+%7C+AWS+%7C+Azure;%3E+DevSecOps+%26+Security+Automation" alt="headline" />
 
 </div>
 
----
+```ansi
+┌─[ kimani@security ]─[ ~/profile ]
+└──╼ $ whoami
+```
 
-## 🧭 What I do
+> I secure software and cloud infrastructure end to end. I break systems the way a real
+> adversary would, prove the impact, show how it gets detected, then rebuild it hardened.
+> Application security across web, mobile and APIs, cloud attack path analysis, and the
+> automation that keeps it all defensible at scale.
 
-| 🎯 Offensive Security | 🛡️ Application Security | ☁️ Cloud & DevSecOps |
-|---|---|---|
-| Web application pentesting | Secure SDLC & code review | AWS / Azure security reviews |
-| Mobile pentesting (Android / iOS) | Threat modeling | IAM & misconfiguration hardening |
-| API & network pentesting | SAST / DAST integration | Cloud attack-path mapping |
-| Red teaming & bug bounty | Vulnerability research | CI/CD security gates |
-| AI / LLM security | Secure architecture design | Monitoring, logging & honeypots |
+`🇰🇪 Kenya` &nbsp; `Offensive Security` &nbsp; `AppSec` &nbsp; `Cloud` &nbsp; `AI/LLM Security`
 
-...and much more — if it ships, I can test it, and if it's breakable, I'll show you how and how to fix it.
-
----
-
-## 🧪 Selected work
-
-- **🤖 [burpsuite-ai-pentest-extension](https://github.com/kim-kimani/burpsuite-ai-pentest-extension)** — AI-driven Burp extension that generates payloads and detects SQLi, XSS, SSRF, SSTI, XXE & RCE, with a findings database and HTML/CSV reporting for real engagements.
-- **☁️ [aws-cloud-pentesting](https://github.com/kim-kimani/aws-cloud-pentesting)** — Hands-on offensive AWS lab: deploy a vulnerable environment, attack it like an engagement, see how it's detected, and write it up — in your own account.
-- **⚔️ [burp-payload-workbench](https://github.com/kim-kimani/burp-payload-workbench)** — Observe → Extract → Remember → Modify → Generate → Replay → Analyze, all in a single Burp tab.
-- **📚 [thm-walkthroughs](https://github.com/kim-kimani/thm-walkthroughs)** — 137+ TryHackMe walkthroughs: web exploitation, privesc, CVE analysis, container escapes & AI/LLM security.
+<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" alt="views"/>
 
 ---
 
-## 🧰 Toolbox
+## `>` What I do
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎯 Offensive Security
+- Web application pentesting
+- Mobile pentesting (Android / iOS)
+- API security testing
+- Network penetration testing
+- Red teaming &amp; adversary simulation
+- Bug bounty &amp; vulnerability research
+- Active Directory &amp; internal pentest
+- Recon, OSINT &amp; attack surface mapping
+
+</td>
+<td valign="top" width="33%">
+
+### 🛡️ Application Security
+- Secure SDLC &amp; code review
+- Threat modeling
+- SAST / DAST integration
+- API &amp; authentication security
+- Cryptography review
+- Phishing &amp; social engineering defense
+- AI / LLM security
+- Secure architecture design
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ Cloud &amp; DevSecOps
+- AWS &amp; Azure security reviews
+- Cloud infrastructure architecture
+- IAM &amp; misconfiguration hardening
+- Cloud attack path mapping
+- CI/CD security gates
+- Security automation &amp; tooling
+- Monitoring, logging &amp; honeypots
+- Container &amp; Kubernetes security
+
+</td>
+</tr>
+</table>
+
+---
+
+## `>` Selected work
+
+- **🤖 [burpsuite-ai-pentest-extension](https://github.com/kim-kimani/burpsuite-ai-pentest-extension)** &raquo; AI driven Burp extension that generates payloads and detects SQLi, XSS, SSRF, SSTI, XXE and RCE, with a findings database and HTML/CSV reporting for real engagements.
+- **☁️ [aws-cloud-pentesting](https://github.com/kim-kimani/aws-cloud-pentesting)** &raquo; Hands on offensive AWS lab: deploy a vulnerable environment, attack it like an engagement, watch how it gets detected, then write it up, all in your own account.
+- **⚔️ [burp-payload-workbench](https://github.com/kim-kimani/burp-payload-workbench)** &raquo; Observe, Extract, Remember, Modify, Generate, Replay and Analyze, all in a single Burp tab.
+- **📚 [thm-walkthroughs](https://github.com/kim-kimani/thm-walkthroughs)** &raquo; 137+ TryHackMe walkthroughs covering web exploitation, privesc, CVE analysis, container escapes and AI/LLM security.
+
+---
+
+## `>` Toolbox
 
 <div align="center">
 
-**Offensive & Application Security**
+**Offensive &amp; Application Security**
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
@@ -56,7 +94,7 @@ analysis, and the automation that keeps it all defensible at scale.
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-**Cloud & Infrastructure**
+**Cloud &amp; Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -65,7 +103,7 @@ analysis, and the automation that keeps it all defensible at scale.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**DevSecOps & Automation**
+**DevSecOps &amp; Automation**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -88,10 +126,16 @@ analysis, and the automation that keeps it all defensible at scale.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kim-kimani&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-kimani&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kim-kimani&show_icons=true&count_private=true&hide_border=true&bg_color=0A0E14&title_color=00F0FF&icon_color=00FF9C&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-kimani&layout=compact&hide_border=true&langs_count=8&bg_color=0A0E14&title_color=00F0FF&text_color=C9D1D9" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kim-kimani&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kim-kimani&hide_border=true&background=0A0E14&ring=00F0FF&fire=00FF9C&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00F0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=00FF9C" />
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kim-kimani&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
 
 </div>
 
@@ -99,11 +143,15 @@ analysis, and the automation that keeps it all defensible at scale.
 
 <div align="center">
 
-### 🌐 Connect
+### `>` Connect
 
-<a href="https://github.com/kim-kimani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/kim-kimani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/m-kimani-mburu-8940b1326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/kim.kimanimburu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="mailto:mkimanimburu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FF9C,50:00F0FF,100:0A0E14&section=footer" alt="footer" width="100%"/>
 
 </div>
