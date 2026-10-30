@@ -1,14 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:0097A7,100:00E5FF&text=KIMANI&fontColor=0D1117&fontSize=70&fontAlignY=38&desc=Security%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descAlignY=58&descSize=18" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:006978,100:00B8D4&section=header" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=820&lines=Senior+Security+Engineer+%26+Cloud+Architect;Application+Security+%7C+Web+%7C+Mobile+%7C+API;Offensive+Security+%7C+Red+Teaming;Cloud+Security+%7C+AWS;DevSecOps+%26+Security+Automation" alt="headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=58&color=FFFFFF&center=true&vCenter=true&repeat=false&width=820&height=90&lines=KIMANI" alt="name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=820&lines=Senior+Security+Engineer+%26+Cloud+Architect;Application+Security+%7C+Web+%7C+Mobile+%7C+API;Offensive+Security+%7C+Red+Teaming;Cloud+Security+%7C+AWS;DevSecOps+%26+Security+Automation" alt="headline" />
 
 </div>
 
 ```ansi
 ┌─[ kimani@security ]─[ ~/profile ]
 └──╼ $ whoami
+kim-kimani
+
+┌─[ kimani@security ]─[ ~/profile ]
+└──╼ $ cat current_role.txt
+Senior Security Engineer · Cloud Architect · DevSecOps
+
+┌─[ kimani@security ]─[ ~/profile ]
+└──╼ $ sudo find / -name "vulnerabilities" 2>/dev/null
+located. exploited. reported. patched.
+
+┌─[ kimani@security ]─[ ~/profile ]
+└──╼ $ echo $MOTTO
+Think like an attacker. Build like a defender.
 ```
 
 > I secure software and cloud infrastructure end to end. I break systems the way a real
@@ -16,7 +31,7 @@
 > Application security across web, mobile and APIs, cloud attack path analysis, and the
 > automation that keeps it all defensible at scale.
 
-`🇰🇪 Kenya` &nbsp; `Offensive Security` &nbsp; `AppSec` &nbsp; `Cloud` &nbsp; `AI/LLM Security`
+`Kenya` &nbsp; `Offensive Security` &nbsp; `AppSec` &nbsp; `Cloud` &nbsp; `AI/LLM Security`
 
 <img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="views"/>
 
@@ -25,11 +40,6 @@
 ## Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kim-kimani&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kim-kimani&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=kim-kimani&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&stroke=00E5FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=00E5FF" />
 
@@ -51,7 +61,7 @@
 <tr>
 <td valign="top" width="33%">
 
-### 🎯 Offensive Security
+### <img src="https://cdn.simpleicons.org/kalilinux/00E5FF" height="18" align="center"/> Offensive Security
 - Black-box &amp; grey-box web application penetration testing
 - Mobile application security assessment (Android / iOS, static &amp; dynamic analysis)
 - REST &amp; GraphQL API security testing
@@ -64,7 +74,7 @@
 </td>
 <td valign="top" width="33%">
 
-### 🛡️ Application Security
+### <img src="https://cdn.simpleicons.org/owasp/00E5FF" height="18" align="center"/> Application Security
 - Secure SDLC &amp; threat-driven design review
 - Threat modeling (STRIDE / attack trees)
 - SAST / DAST / SCA pipeline integration
@@ -77,7 +87,7 @@
 </td>
 <td valign="top" width="33%">
 
-### ☁️ Cloud &amp; DevSecOps (AWS)
+### <img src="https://cdn.simpleicons.org/icloud/00E5FF" height="18" align="center"/> Cloud &amp; DevSecOps (AWS)
 - AWS security posture &amp; configuration review
 - Cloud infrastructure architecture &amp; hardening
 - IAM least-privilege &amp; privilege-escalation analysis
