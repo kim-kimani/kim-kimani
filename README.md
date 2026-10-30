@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A0E14,50:00F0FF,100:00FF9C&text=KIMANI&fontColor=0A0E14&fontSize=70&fontAlignY=38&desc=Security%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descAlignY=58&descSize=18" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:7FB4D8,100:89CFF0&text=KIMANI&fontColor=0D1117&fontSize=70&fontAlignY=38&desc=Security%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descAlignY=58&descSize=18" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=820&lines=%3E+Senior+Security+Engineer+%26+Cloud+Architect;%3E+Application+Security+%7C+Web+%7C+Mobile+%7C+API;%3E+Offensive+Security+%7C+Red+Teaming;%3E+Cloud+Security+%7C+AWS+%7C+Azure;%3E+DevSecOps+%26+Security+Automation" alt="headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=89CFF0&center=true&vCenter=true&width=820&lines=%3E+Senior+Security+Engineer+%26+Cloud+Architect;%3E+Application+Security+%7C+Web+%7C+Mobile+%7C+API;%3E+Offensive+Security+%7C+Red+Teaming;%3E+Cloud+Security+%7C+AWS+%7C+Azure;%3E+DevSecOps+%26+Security+Automation" alt="headline" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 `🇰🇪 Kenya` &nbsp; `Offensive Security` &nbsp; `AppSec` &nbsp; `Cloud` &nbsp; `AI/LLM Security`
 
-<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=89CFF0&label=PROFILE+VIEWS" alt="views"/>
 
 ---
 
@@ -124,18 +124,24 @@
 
 ---
 
+## `>` Stats
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kim-kimani&show_icons=true&count_private=true&hide_border=true&bg_color=0A0E14&title_color=00F0FF&icon_color=00FF9C&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-kimani&layout=compact&hide_border=true&langs_count=8&bg_color=0A0E14&title_color=00F0FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kim-kimani&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=89CFF0&icon_color=A7D3EE&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-kimani&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=89CFF0&text_color=C9D1D9" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=kim-kimani&hide_border=true&background=0A0E14&ring=00F0FF&fire=00FF9C&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00F0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=00FF9C" />
+<img src="https://streak-stats.demolab.com?user=kim-kimani&hide_border=true&background=0D1117&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&sideLabels=C9D1D9&dates=8B949E&stroke=89CFF0&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=A7D3EE" />
 
-<br/>
+<br/><br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kim-kimani&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
+### `>` TryHackMe
+
+<a href="https://tryhackme.com/p/iSource">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/iSource.png" alt="TryHackMe iSource" />
+</a>
 
 </div>
 
@@ -145,13 +151,13 @@
 
 ### `>` Connect
 
-<a href="https://github.com/kim-kimani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/></a>
+<a href="https://github.com/kim-kimani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=89CFF0" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/m-kimani-mburu-8940b1326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/kim.kimanimburu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="mailto:mkimanimburu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FF9C,50:00F0FF,100:0A0E14&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:89CFF0,50:7FB4D8,100:0D1117&section=footer" alt="footer" width="100%"/>
 
 </div>
