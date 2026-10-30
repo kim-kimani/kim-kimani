@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:0097A7,100:00E5FF&animation=fadeIn&section=header" alt="banner" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=80&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=120&lines=KIMANI" alt="name" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0097A7,100:00E5FF&animation=fadeIn&text=KIMANI&fontColor=FFFFFF&fontSize=72&fontAlignY=34&desc=Knock%20knock.%20Who%27s%20there%3F%20Unauthenticated%20request.%20Unauthenticated%20request%20who%3F%20403&descAlign=50&descAlignY=56&descSize=15" alt="banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Senior+Security+Engineer+%26+Cloud+Architect;Application+Security+%7C+Web+%7C+Mobile+%7C+API;Offensive+Security+%7C+Red+Teaming;Cloud+Security+%7C+AWS;DevSecOps+%26+Security+Automation" alt="headline" />
-
-<br/>
-
-<em>Knock knock. Who's there? Unauthenticated request. Unauthenticated request who?</em> &nbsp;<code>403</code>
 
 </div>
 
