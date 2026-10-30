@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:7FB4D8,100:89CFF0&text=KIMANI&fontColor=0D1117&fontSize=70&fontAlignY=38&desc=Security%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descAlignY=58&descSize=18" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:0097A7,100:00E5FF&text=KIMANI&fontColor=0D1117&fontSize=70&fontAlignY=38&desc=Security%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps&descAlignY=58&descSize=18" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=89CFF0&center=true&vCenter=true&width=820&lines=%3E+Senior+Security+Engineer+%26+Cloud+Architect;%3E+Application+Security+%7C+Web+%7C+Mobile+%7C+API;%3E+Offensive+Security+%7C+Red+Teaming;%3E+Cloud+Security+%7C+AWS+%7C+Azure;%3E+DevSecOps+%26+Security+Automation" alt="headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=820&lines=Senior+Security+Engineer+%26+Cloud+Architect;Application+Security+%7C+Web+%7C+Mobile+%7C+API;Offensive+Security+%7C+Red+Teaming;Cloud+Security+%7C+AWS;DevSecOps+%26+Security+Automation" alt="headline" />
 
 </div>
 
@@ -18,51 +18,74 @@
 
 `🇰🇪 Kenya` &nbsp; `Offensive Security` &nbsp; `AppSec` &nbsp; `Cloud` &nbsp; `AI/LLM Security`
 
-<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=89CFF0&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=kim-kimani&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="views"/>
 
 ---
 
-## `>` What I do
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kim-kimani&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kim-kimani&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kim-kimani&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&stroke=00E5FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=00E5FF" />
+
+<br/><br/>
+
+### TryHackMe
+
+<a href="https://tryhackme.com/p/iSource">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/iSource.png" alt="TryHackMe iSource" />
+</a>
+
+</div>
+
+---
+
+## What I do
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
 ### 🎯 Offensive Security
-- Web application pentesting
-- Mobile pentesting (Android / iOS)
-- API security testing
-- Network penetration testing
-- Red teaming &amp; adversary simulation
-- Bug bounty &amp; vulnerability research
-- Active Directory &amp; internal pentest
-- Recon, OSINT &amp; attack surface mapping
+- Black-box &amp; grey-box web application penetration testing
+- Mobile application security assessment (Android / iOS, static &amp; dynamic analysis)
+- REST &amp; GraphQL API security testing
+- Network &amp; infrastructure penetration testing
+- Adversary emulation &amp; red team operations (MITRE ATT&amp;CK)
+- Vulnerability research &amp; N-day exploit development
+- Active Directory &amp; internal network compromise
+- Reconnaissance, OSINT &amp; external attack surface management
 
 </td>
 <td valign="top" width="33%">
 
 ### 🛡️ Application Security
-- Secure SDLC &amp; code review
-- Threat modeling
-- SAST / DAST integration
-- API &amp; authentication security
-- Cryptography review
-- Phishing &amp; social engineering defense
-- AI / LLM security
-- Secure architecture design
+- Secure SDLC &amp; threat-driven design review
+- Threat modeling (STRIDE / attack trees)
+- SAST / DAST / SCA pipeline integration
+- AuthN, AuthZ &amp; session management hardening
+- Applied cryptography &amp; key management review
+- Anti-phishing &amp; social engineering resilience
+- AI / LLM security (prompt injection, OWASP LLM Top 10)
+- Secure-by-design architecture
 
 </td>
 <td valign="top" width="33%">
 
-### ☁️ Cloud &amp; DevSecOps
-- AWS &amp; Azure security reviews
-- Cloud infrastructure architecture
-- IAM &amp; misconfiguration hardening
-- Cloud attack path mapping
-- CI/CD security gates
-- Security automation &amp; tooling
-- Monitoring, logging &amp; honeypots
-- Container &amp; Kubernetes security
+### ☁️ Cloud &amp; DevSecOps (AWS)
+- AWS security posture &amp; configuration review
+- Cloud infrastructure architecture &amp; hardening
+- IAM least-privilege &amp; privilege-escalation analysis
+- Cloud attack-path &amp; lateral-movement mapping
+- CI/CD pipeline security &amp; policy-as-code gates
+- Detection engineering, logging &amp; honeypots
+- Security automation &amp; custom tooling
+- Container &amp; Kubernetes security (CIS benchmarks)
 
 </td>
 </tr>
@@ -70,16 +93,7 @@
 
 ---
 
-## `>` Selected work
-
-- **🤖 [burpsuite-ai-pentest-extension](https://github.com/kim-kimani/burpsuite-ai-pentest-extension)** &raquo; AI driven Burp extension that generates payloads and detects SQLi, XSS, SSRF, SSTI, XXE and RCE, with a findings database and HTML/CSV reporting for real engagements.
-- **☁️ [aws-cloud-pentesting](https://github.com/kim-kimani/aws-cloud-pentesting)** &raquo; Hands on offensive AWS lab: deploy a vulnerable environment, attack it like an engagement, watch how it gets detected, then write it up, all in your own account.
-- **⚔️ [burp-payload-workbench](https://github.com/kim-kimani/burp-payload-workbench)** &raquo; Observe, Extract, Remember, Modify, Generate, Replay and Analyze, all in a single Burp tab.
-- **📚 [thm-walkthroughs](https://github.com/kim-kimani/thm-walkthroughs)** &raquo; 137+ TryHackMe walkthroughs covering web exploitation, privesc, CVE analysis, container escapes and AI/LLM security.
-
----
-
-## `>` Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -97,7 +111,6 @@
 **Cloud &amp; Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -124,40 +137,17 @@
 
 ---
 
-## `>` Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kim-kimani&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=89CFF0&icon_color=A7D3EE&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-kimani&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=89CFF0&text_color=C9D1D9" />
+## Connect
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=kim-kimani&hide_border=true&background=0D1117&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&sideLabels=C9D1D9&dates=8B949E&stroke=89CFF0&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=A7D3EE" />
-
-<br/><br/>
-
-### `>` TryHackMe
-
-<a href="https://tryhackme.com/p/iSource">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/iSource.png" alt="TryHackMe iSource" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `>` Connect
-
-<a href="https://github.com/kim-kimani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=89CFF0" alt="GitHub"/></a>
+<a href="https://github.com/kim-kimani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/m-kimani-mburu-8940b1326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/kim.kimanimburu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="mailto:mkimanimburu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:89CFF0,50:7FB4D8,100:0D1117&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00E5FF,50:0097A7,100:0D1117&section=footer" alt="footer" width="100%"/>
 
 </div>
