@@ -12,23 +12,11 @@
 
 </div>
 
-```ansi
-┌─[ kimani@security ]─[ ~/profile ]
-└──╼ $ whoami
-kim-kimani
+<div align="center">
 
-┌─[ kimani@security ]─[ ~/profile ]
-└──╼ $ cat current_role.txt
-Senior Security Engineer · Cloud Architect · DevSecOps
+<img src="assets/whoami.svg" alt="kimani@security terminal" width="80%"/>
 
-┌─[ kimani@security ]─[ ~/profile ]
-└──╼ $ sudo find / -name "vulnerabilities" 2>/dev/null
-located. exploited. reported. patched.
-
-┌─[ kimani@security ]─[ ~/profile ]
-└──╼ $ echo $MOTTO
-Think like an attacker. Build like a defender.
-```
+</div>
 
 > I secure software and cloud infrastructure end to end. I break systems the way a real
 > adversary would, prove the impact, show how it gets detected, then rebuild it hardened.
