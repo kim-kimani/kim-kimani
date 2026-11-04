@@ -119,6 +119,14 @@
 <img src="assets/tcm-security.png" alt="TCM Security" height="20"/>
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
 
+**Hardware &amp; RF**
+
+<img src="assets/flipper-zero.png" alt="Flipper Zero" height="20"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="20"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" height="20"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" height="20"/>
+<img src="https://img.shields.io/badge/Nordic%20nRF-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" alt="Nordic nRF" height="20"/>
+
 **DevSecOps &amp; Automation**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -127,14 +135,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-
-**Hardware &amp; RF**
-
-<img src="assets/flipper-zero.png" alt="Flipper Zero" height="20"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="20"/>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" height="20"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" height="20"/>
-<img src="https://img.shields.io/badge/Nordic%20nRF-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" alt="Nordic nRF" height="20"/>
 
 **Cloud &amp; Infrastructure**
 
