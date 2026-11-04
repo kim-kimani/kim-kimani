@@ -140,10 +140,10 @@
 **Hardware &amp; RF**
 
 <img src="assets/flipper-zero.png" alt="Flipper Zero" height="20"/>
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Nordic nRF](https://img.shields.io/badge/Nordic%20nRF-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="20"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" height="20"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" height="20"/>
+<img src="https://img.shields.io/badge/Nordic%20nRF-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" alt="Nordic nRF" height="20"/>
 
 **Languages**
 
