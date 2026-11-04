@@ -93,7 +93,7 @@
 
 ---
 
-## Toolbox
+## Tech Stack &amp; Tradecraft
 
 <div align="center">
 
