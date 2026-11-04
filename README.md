@@ -27,7 +27,7 @@
 
 ---
 
-## Stats
+## Activity Logs
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 ---
 
-## What I do
+## Scope of Work
 
 <table>
 <tr>
