@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=80&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=120&lines=KIMANI" alt="name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=80&color=0891B2&center=true&vCenter=true&repeat=false&width=900&height=120&lines=KIMANI" alt="name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Senior+Application+Security+Engineer+%26+Cloud+Architect;Application+Security+%7C+Web+%7C+Mobile+%7C+API;Offensive+Security+%7C+Red+Teaming;Cloud+Security+%7C+AWS;DevSecOps+%26+Security+Automation" alt="headline" />
 
